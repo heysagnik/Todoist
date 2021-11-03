@@ -1,6 +1,6 @@
 # Track your productive time
 <p align="center">
-  <img src="">
+  <img src="https://i.imgur.com/DmTfIVx.png">
 </p>
 
 ## Libraries used
