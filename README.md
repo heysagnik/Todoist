@@ -15,14 +15,14 @@
 
 Check out how productive you are in each session with the help of the StatCard components.
 <p align="center">
-  <img src="">
+  <img src="https://i.imgur.com/OIvUF1b.png">
 </p>
 
 ### Create an editable ToDo List
 
 Add, remove, edit or mark your tasks as done in Produktif's minimalist UI.
 <p align="center">
-  <img src="">
+  <img src="https://i.imgur.com/XsnGBtL.png">
 </p>
 
 ### Save your ToDo list automatically
