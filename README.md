@@ -1,4 +1,4 @@
-# Track your productive time
+# Boost your Productivity with Todoist
 <p align="center">
   <img src="https://i.imgur.com/DmTfIVx.png">
 </p>
